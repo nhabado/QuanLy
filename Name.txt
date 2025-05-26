@@ -1,2 +1,1 @@
-sakuda.zapto.org:5678
-127.0.0.1:5678
+sakuda.zapto.org:5678|127.0.0.1:5678
